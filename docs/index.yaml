@@ -3,7 +3,7 @@ entries:
   pluma-operator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-01-23T09:24:24.175742931Z"
+    created: "2025-01-24T05:34:33.383957414Z"
     description: A Helm chart for Kubernetes
     digest: 3efbb39421bcb3a9bd5ef086231632e20c5ef9d98a0138a777d2f660afa7a048
     name: pluma-operator
@@ -13,7 +13,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.1.0-rc1
-    created: "2025-01-23T09:24:24.175456416Z"
+    created: "2025-01-24T05:34:33.383663936Z"
     description: A Helm chart for Kubernetes
     digest: 0600e11e334e4f86736e3f4a2ec7988c0d242adabc19e64ccfcbaf6ce9cdef01
     name: pluma-operator
@@ -23,7 +23,7 @@ entries:
     version: 0.1.0-rc1
   - apiVersion: v2
     appVersion: 0.0.0-dev-f9a28224
-    created: "2025-01-23T09:24:24.175179319Z"
+    created: "2025-01-24T05:34:33.38336144Z"
     description: A Helm chart for Kubernetes
     digest: 39ddde44755fc5e9fd6451fd70a6ae2e30cfeac3ef472c429b0fb8d23d294807
     name: pluma-operator
@@ -32,8 +32,18 @@ entries:
     - https://pluma-tools.github.io/charts/pluma-operator-0.0.0-dev-f9a28224.tgz
     version: 0.0.0-dev-f9a28224
   - apiVersion: v2
+    appVersion: 0.0.0-dev-d5306fae
+    created: "2025-01-24T05:34:33.382999294Z"
+    description: A Helm chart for Kubernetes
+    digest: f5a74b1ea668a7f9b3fa90f3c87ec3ceeb26950f1a1337518a89972dc5bf6561
+    name: pluma-operator
+    type: application
+    urls:
+    - https://pluma-tools.github.io/charts/pluma-operator-0.0.0-dev-d5306fae.tgz
+    version: 0.0.0-dev-d5306fae
+  - apiVersion: v2
     appVersion: 0.0.0-dev-cd523857
-    created: "2025-01-23T09:24:24.174882454Z"
+    created: "2025-01-24T05:34:33.382661332Z"
     description: A Helm chart for Kubernetes
     digest: dd0322efe26f8a50125d7c5745517fe4fca4b835c615cc427c43273af963c3d6
     name: pluma-operator
@@ -43,7 +53,7 @@ entries:
     version: 0.0.0-dev-cd523857
   - apiVersion: v2
     appVersion: 0.0.0-dev-caee1545
-    created: "2025-01-23T09:24:24.174581412Z"
+    created: "2025-01-24T05:34:33.381915217Z"
     description: A Helm chart for Kubernetes
     digest: 0514dd45bb8e6e3af129b7c5bba2fe2901c911ac31285a815a42a4a4e9bb843b
     name: pluma-operator
@@ -53,7 +63,7 @@ entries:
     version: 0.0.0-dev-caee1545
   - apiVersion: v2
     appVersion: 0.0.0-dev-aa64b4ac
-    created: "2025-01-23T09:24:24.174231559Z"
+    created: "2025-01-24T05:34:33.381380457Z"
     description: A Helm chart for Kubernetes
     digest: 931134b5159be05ad169deff5a78c76f4d644e9f102231e0a2ff983b3e35c932
     name: pluma-operator
@@ -63,7 +73,7 @@ entries:
     version: 0.0.0-dev-aa64b4ac
   - apiVersion: v2
     appVersion: 0.0.0-dev-5d2d83a5
-    created: "2025-01-23T09:24:24.173582768Z"
+    created: "2025-01-24T05:34:33.380836861Z"
     description: A Helm chart for Kubernetes
     digest: a7c837984cf95db4d378299960e03a61df6ac31c7d42acc0594950017a72c240
     name: pluma-operator
@@ -73,7 +83,7 @@ entries:
     version: 0.0.0-dev-5d2d83a5
   - apiVersion: v2
     appVersion: 0.0.0-dev-36e8e8ec
-    created: "2025-01-23T09:24:24.173055855Z"
+    created: "2025-01-24T05:34:33.380298114Z"
     description: A Helm chart for Kubernetes
     digest: 03795e06191174c1c475b4aaa0d4ddaea7cd3362abc4328c897e8b8de8542af2
     name: pluma-operator
@@ -83,7 +93,7 @@ entries:
     version: 0.0.0-dev-36e8e8ec
   - apiVersion: v2
     appVersion: 0.0.0-dev-29db396f
-    created: "2025-01-23T09:24:24.172466667Z"
+    created: "2025-01-24T05:34:33.379717148Z"
     description: A Helm chart for Kubernetes
     digest: 3e3f6e1c93adf21d14d64127cba30caed298482ad441dc7312ad7c1e3dd25c82
     name: pluma-operator
@@ -91,4 +101,4 @@ entries:
     urls:
     - https://pluma-tools.github.io/charts/pluma-operator-0.0.0-dev-29db396f.tgz
     version: 0.0.0-dev-29db396f
-generated: "2025-01-23T09:24:24.171576916Z"
+generated: "2025-01-24T05:34:33.378675531Z"
